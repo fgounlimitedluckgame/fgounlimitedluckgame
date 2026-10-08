@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🤔 I’m looking for help with my incoming thesis (because screw you destiny for isolating me in group projects)
-- 💬 Ask me about CS-related topics, and maybe Chess, gacha games, and anime too (as recreational activities)
+- 💬 Ask me about CS-related topics, life. And Chess, gacha games, anime, hitory, jokes too (as recreational activities)
 - 📫 How to reach me: Linkedin, Facebook
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an IS student, but now I'm interested in Software Testing (and also planning to do a thesis about it)
